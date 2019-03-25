@@ -23,5 +23,5 @@ This plugin also adds a few commands for admins:
    # heal
       description: Heals a player or yourself!
    # bedmanagerinfo
-      aliases: [bminfo, c4pl1]
+      aliases: [bminfo, ctpl1]
       description: Shows info about the plugin!
