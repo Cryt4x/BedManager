@@ -22,6 +22,6 @@ This plugin also adds a few commands for admins:
       description: Combination of "/sun" and "/day"!
    # heal
       description: Heals a player or yourself!
-   # BedManager
+   # bedmanagerinfo
       aliases: [bminfo, c4pl1]
       description: Shows info about the plugin!
