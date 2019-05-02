@@ -1,0 +1,23 @@
+name: BedManager
+author: CryT4x
+version: 1.011
+api-version: 1.14
+main: de.cryt4x.bm.main.Main
+website: https://www.cryt4x.de
+commands:
+   seeinventory:
+      aliases: [seeinv, cinv, cui]
+      description: Shows other player's inventory!
+   sun:
+      description: Shortcut for "/weather clear"
+   day:
+      description: Shortcut for "/time set 1000" or "/time set day"
+   night:
+      description: Shortcut for "/time set 13000" or "/time set night"
+   suda:
+      description: Combination of "/sun" and "/day"!
+   heal:
+      description: Heals a player or yourself!
+   bedmanagerinfo:
+      aliases: [bminfo, ctpl1]
+      description: Shows info about the plugin!
